@@ -6,3 +6,4 @@
 | 2    | 2022.03.12 | TCP / IP 4계층 모델 | 응용, 전송, 인터넷, 링크 계층에 대한 이해     | [링크](https://www.notion.so/CS-computer-science-064db1347350415997ecb04479e708e6?p=eb748734504d460db591d4f79a4cee60&pm=s)                |
 | 3    | 2022.03.13 | 네트워크 기기       | 각 계층 별 처리 기기에 대한 이해              | [링크](https://www.notion.so/2-3a068aa1de6c467f9c88b21e4308fcb9?p=26bf94beaca84b8c9af6e1ac15ff5666&pm=s)                                  |
 | 4    | 2022.03.14 | IP 주소             | ARP, 홉바이홉 통신, IP 주소 체계에 대한 이해, | [링크](https://www.notion.so/73711298d658444babbaf8f339ca5a69?v=34e6d376191a49dbad4f6c73bcd6bae8&p=a1080ad777034ae7a83b24cb44d299f7&pm=s) |
+| 5    | 2022.03.18 | HTTP                | HTTP 1.0 ~ 3의 대한 이해 및 HTTPS의 이해      | [링크](https://www.notion.so/CS-computer-science-064db1347350415997ecb04479e708e6?p=e4d60d8944d845ec94ca5ced02bea293&pm=s)                |
