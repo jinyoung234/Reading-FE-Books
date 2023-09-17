@@ -26,3 +26,5 @@
 | 22   | 2023.09.15 | 26장 ES6 함수의 추가 기능                 | ES6 이전의 함수와 ES6 함수의 차이점에 대해 알아보며, 새롭게 추가된 rest parameter, default parameter 등에 대해 알아보자.                  | [링크](https://www.notion.so/26-ES6-337e13b962c84e90a67f7dd9c33929ad)         |
 
 | 23 | 2023.09.16 | 27장 배열 | 자바스크립트의 배열과 일반 배열의 차이점에 대해 알아보며, 희소 배열과 length 프로퍼티, 여러 메서드 들에 대해 살펴보자. | [링크](https://www.notion.so/27-e6ff6f80e67649929edf0d13aff24921) |
+| 24 | 2023.09.17 | 28장 Number | Number 생성자 함수와 여러 메서드에 대해 알아보자. | [링크](https://www.notion.so/28-Number-058b1d9c11dc4af79372ddbb6988ace8) |
+| 25 | 2023.09.17 | 30장 Date | Date 생성자 함수와 여러 메서드에 대해 알아보자. | [링크](https://www.notion.so/30-Date-d46f4f33866145cdacb80857eefda4aa) |
