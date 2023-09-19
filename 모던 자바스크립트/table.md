@@ -28,3 +28,5 @@
 | 23 | 2023.09.16 | 27장 배열 | 자바스크립트의 배열과 일반 배열의 차이점에 대해 알아보며, 희소 배열과 length 프로퍼티, 여러 메서드 들에 대해 살펴보자. | [링크](https://www.notion.so/27-e6ff6f80e67649929edf0d13aff24921) |
 | 24 | 2023.09.17 | 28장 Number | Number 생성자 함수와 여러 메서드에 대해 알아보자. | [링크](https://www.notion.so/28-Number-058b1d9c11dc4af79372ddbb6988ace8) |
 | 25 | 2023.09.17 | 30장 Date | Date 생성자 함수와 여러 메서드에 대해 알아보자. | [링크](https://www.notion.so/30-Date-d46f4f33866145cdacb80857eefda4aa) |
+| 26 | 2023.09.18 | 31장 RegExp | 정규표현식의 플래그와 패턴 및 생성 방식과 메서드 들에 대해 알아보자. | [링크](https://www.notion.so/31-RegExp-2ce3ac67b2584fa4a2cd96278f4fa4a9) |
+| 27 | 2023.09.18 | 32장 String | String 생성자 함수와 관련 메서드에 대해 알아보자. | [링크](https://www.notion.so/32-String-1f1e6fc6ad20412684b2f4dc15c3e371) |
