@@ -30,3 +30,4 @@
 | 25 | 2023.09.17 | 30장 Date | Date 생성자 함수와 여러 메서드에 대해 알아보자. | [링크](https://www.notion.so/30-Date-d46f4f33866145cdacb80857eefda4aa) |
 | 26 | 2023.09.18 | 31장 RegExp | 정규표현식의 플래그와 패턴 및 생성 방식과 메서드 들에 대해 알아보자. | [링크](https://www.notion.so/31-RegExp-2ce3ac67b2584fa4a2cd96278f4fa4a9) |
 | 27 | 2023.09.18 | 32장 String | String 생성자 함수와 관련 메서드에 대해 알아보자. | [링크](https://www.notion.so/32-String-1f1e6fc6ad20412684b2f4dc15c3e371) |
+| 28 | 2023.09.19 | 34장 이터러블 | 이터레이션 프로토콜 내 존재하는 이터러블과 이터레이터에 대해 살펴보며, for - of의 동작 원리와 빌트인 이터러블, 사용자 정의 이터러블에 대해 알아보자. | [링크](https://www.notion.so/34-b5d242ed339c4064bfbcc64bf3cb617b) |
